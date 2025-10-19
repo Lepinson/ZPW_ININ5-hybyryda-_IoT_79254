@@ -3,7 +3,7 @@ name: Zgłoszenie błędu
 about: Zgłoś błąd na stronie Zoo Online
 title: [BUG] Krótki opis
 labels: bug
-assignees: ''
+assignees: ""
 ---
 
 **Opis błędu**
