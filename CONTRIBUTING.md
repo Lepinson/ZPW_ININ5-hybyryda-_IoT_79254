@@ -14,3 +14,4 @@ Każda nowa zmiana powinna być umieszczona na nowym branchu, np. :
 - Komunikuj się przez Issue i PR.
   
  
+![Uploading WatchesTestovironGIF.gif…]()
